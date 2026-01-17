@@ -70,3 +70,4 @@ Now the application is served on `localhost:8600`. To run the automated tests fo
 ```
 pytest --host http://localhost:8600
 ```
+# Deployed from Ubuntu EC2

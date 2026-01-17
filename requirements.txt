@@ -1,16 +1,12 @@
-flask
+Flask==1.1.4
+uWSGI==2.0.23
+marshmallow==3.13.0
+apispec==4.4.2
+apispec-webframeworks==0.5.2
+flask-swagger-ui==4.11.1
+openapi-spec-validator==0.5.6
+pytest==7.4.4
+requests==2.31.0
+MarkupSafe<2.1
 
-# testing
-pytest
-requests
-
-# production
-uwsgi
-
-# swagger api docs
-apispec
-apispec_webframeworks
-marshmallow
-flask_swagger_ui
-openapi_spec_validator
 
