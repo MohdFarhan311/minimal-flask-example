@@ -1,0 +1,9 @@
+# Terraform generated files (NEVER commit)
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/terraform.tfstate*
+terraform/*.tfstate*
+
+# OS / editor
+.DS_Store
+.vscode/
