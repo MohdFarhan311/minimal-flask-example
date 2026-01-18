@@ -152,4 +152,23 @@ kubectl delete namespace monitoring
 
 ## Summary
 
-The kube-prometheus-stack was successfully deployed on the EKS cluster to monitor Kubernetes resources and node-level consumption using Prometheus and Grafana. This fulfills the requirement of identifying resource usage across the Kubernetes cluster and underlying machines using a production-grade observability stack.
+The kube-prometheus-stack was successfully deployed on the EKS cluster to monitor Kubernetes resources and node-level consumption using Prometheus and Grafana. This fulfills the requirement of identifying resource usage across the 
+
+Kubernetes cluster and underlying machines using a production-grade observability stack.
+
+
+## HANDLING DANGLING IMAGES
+
+<img width="1806" height="294" alt="Screenshot 2026-01-18 150145" src="https://github.com/user-attachments/assets/2a392096-3630-4f70-8c60-45a1a7f52e8a" />
+
+<img width="869" height="678" alt="Screenshot 2026-01-18 150324" src="https://github.com/user-attachments/assets/f96e69a1-8df6-4a95-a270-4806471d303c" />
+
+
+<img width="1792" height="113" alt="Screenshot 2026-01-18 150726" src="https://github.com/user-attachments/assets/0c557474-aeff-4747-9f18-b417ee13e6f4" />
+
+
+
+
+
+
+
