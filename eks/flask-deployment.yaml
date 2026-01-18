@@ -17,4 +17,4 @@ spec:
         image: 950246260461.dkr.ecr.us-east-1.amazonaws.com/minimal-flask-app:latest
         ports:
         - containerPort: 8600
-
+          #
