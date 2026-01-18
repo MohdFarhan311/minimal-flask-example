@@ -17,6 +17,8 @@ implementation.
 
 ---
 
+
+
 ## Infrastructure Goals
 
 The Terraform configuration is designed to:
@@ -28,7 +30,8 @@ The Terraform configuration is designed to:
 - Separate infrastructure concerns from application logic
 
 ---
-
+## To make it better:
+Var.tf and modules 
 ## High-Level Architecture
 
 Docker Image  
